@@ -1,7 +1,11 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 This is the second line
 This is the third line.
 <<<<<<< HEAD
 This is the fourth line.
 =======
 >>>>>>> change_alice
+=======
+second line goes here.
+>>>>>>> 20027f0c560e64d773e622f901b9f251970f4f72
