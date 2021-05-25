@@ -1,7 +1,4 @@
 Hi! I'm Bob. I'm new here.
-<<<<<<< HEAD
 second line here.
-=======
 Add new line here.
 Add second line.
->>>>>>> change_alice
