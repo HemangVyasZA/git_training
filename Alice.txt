@@ -8,4 +8,8 @@ This is the fourth line.
 >>>>>>> change_alice
 =======
 second line goes here.
+<<<<<<< HEAD
 >>>>>>> 20027f0c560e64d773e622f901b9f251970f4f72
+=======
+again changed
+>>>>>>> 6452e9bc0db5868444922dcda665bbcc11d6e1ca
