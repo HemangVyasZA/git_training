@@ -2,3 +2,8 @@ Hi! I'm Bob. I'm new here.
 second line here.
 Add new line here.
 Add second line.
+<<<<<<< HEAD
+=======
+>>>>>>> change_alice
+changes here
+>>>>>>> 822c7431243b2034fe94b74876f5be156af9d18b
